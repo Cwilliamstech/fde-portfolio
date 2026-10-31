@@ -1,0 +1,7 @@
+JOB|ADDRESS|TASK|TRADE|DUE|STATUS
+1001|14 Maple Ct|Frame second floor|Carpenter|2026-11-03|ACTIVE
+1001|14 Maple Ct|Rough-in wiring|Electrician|2026-11-06|ACTIVE
+1002|88 Birch Ln|Pour foundation|Concrete|2026-10-30|ACTIVE
+1002|88 Birch Ln|Inspect footings|Inspector|2026-10-29|ACTIVE
+1003|5 Oak Dr|Install kitchen cabinets|Carpenter|2026-11-12|ACTIVE
+1003|5 Oak Dr|Paint exterior|Painter|2026-11-10|ON HOLD

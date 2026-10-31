@@ -1,0 +1,5 @@
+NAME|TRADES|AVAILABLE
+Mike|Carpenter|2026-11-03,2026-11-12
+Dana|Electrician,Inspector|2026-10-29,2026-11-06
+Luis|Concrete|2026-10-30
+Ray|Carpenter,Concrete|2026-11-03
