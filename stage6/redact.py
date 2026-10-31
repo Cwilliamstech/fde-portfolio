@@ -8,4 +8,4 @@ def redact():
         return clean_email
 
 
-print(redact())
+
