@@ -1,0 +1,10 @@
+INVOICE
+
+Invoice Number: INV-1001
+Date: 2026-09-01
+
+Vendor: Acme Medical Supply
+
+Description: Medical supplies (synthetic test data)
+
+Total: 1,250.00
