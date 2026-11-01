@@ -1,0 +1,3 @@
+Patient Jane Doe (jane.doe@example.com, 555-123-4567) visited on 03/14. SSN 123-45-6789.
+Follow up with Dr. Ray at ray.clinic@example.org or 555.987.6543.
+Billing contact: SSN on file 987-65-4321, call (555) 222-3333.
